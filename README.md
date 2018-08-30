@@ -56,4 +56,4 @@ build成功后，查看镜像
        docker push xxx/spring-boot-docker
         ```
     
-- 以上操作均需有java、maven、docker环境正确配置
+- **以上操作均需有java、maven、docker环境正确配置**
